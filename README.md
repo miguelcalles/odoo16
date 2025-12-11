@@ -1,1 +1,1 @@
-Este es el readme de odoo16
+oooo
