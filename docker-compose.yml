@@ -12,7 +12,7 @@ services:
     networks:
       - odoo-net
 
-odoo16:
+  odoo16:
     image: odoo:16
     container_name: odoo16
     depends_on:
